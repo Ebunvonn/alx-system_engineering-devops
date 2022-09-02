@@ -1,1 +1,1 @@
-I'm an ALX STUDENT
+I'm an ALX Student
